@@ -25,11 +25,13 @@
 
 ```typescript
 const sushilkumar = {
-  role:       "Full Stack Developer & DevOps Engineer",
+  role:       "Founder · Full Stack Developer · DevOps Engineer",
   location:   "Pune, Maharashtra, India 📍",
-  company:    "GreatShark Technologies — Founder 🦈",
+  company:    "GreatShark Technologies — Founder & CEO 🦈",
 
+  building:          "Software products for developers & businesses in India",
   currentlyBuilding: "SharkMed — Clinic management SaaS for India 🏥",
+  shipped:           "SharkShell — Open source web SSH client on Docker Hub 🐳",
   openTo:            "Freelance projects (Flutter · Next.js · NestJS · AWS)",
 
   stack: {
