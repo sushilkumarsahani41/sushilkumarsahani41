@@ -1,3 +1,4 @@
+<div align="center">
 ```
  ███   █   █   ███   █   █  █████  █      █   █  █   █  █   █   ███   ████  
 █      █   █  █      █   █    █    █      █  █   █   █  ██ ██  █   █  █   █ 
@@ -6,7 +7,7 @@
  ███    ███    ███   █   █  █████  █████  █   █  █   █  █   █  █   █  █   █ 
 ```
 
-<div align="center">
+
 
 ### Full Stack Developer · DevOps Engineer · Open Source Builder
 
